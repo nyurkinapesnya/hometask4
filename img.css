@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  nav ul {
+    text-align: center;
+    background-color: antiquewhite;
+    display: inline-block;
+    list-style: none;
+    width: 100%;
+    margin: 100px 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 30%;
+    
+}
+
+a.table {
+    display: inline-block;
+    width: 100px;
+    height: 90px;
+    background: url(tabletbl.png);
+}
+
+a.table:hover {
+    background-image: url(tablet.png);
+}
+
+a.setting {
+    display: inline-block;
+    width: 100px;
+    height: 90px;
+    background: url(settingsbl.png);
+}
+
+a.setting:hover {
+    background-image: url(setting.png);
+}
+
+a.dash {
+    display: inline-block;
+    width: 100px;
+    height: 90px;
+    background: url(dashboardbl.png);
+}
+
+a.dash:hover {
+    background-image: url(вшфорвлыоя.png);
+}
